@@ -1,4 +1,4 @@
-pseudo code
+f71ccdcpseudo code
 {
 Initial Function()
 {
@@ -7,8 +7,8 @@ Initial Function()
 
 Initial Security()
 {
-
-  hi this feature1 update in security patch realease ...!
+	this feature1 update in security patch realease ...!
+ this is feature2 update for security patches...!
 }
 
 
